@@ -1,0 +1,8 @@
+path : C:\Users\Evenmore\Downloads\task\data # dataset root dir
+train : images\train
+val : images\train
+
+#classes
+names:
+  0 : rectanglebox
+  1 : barcode
